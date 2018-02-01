@@ -5,4 +5,5 @@ package com.example.administrator.gittest.deve;
  */
 
 public class D {
+    //master分支对D类进行修改
 }
