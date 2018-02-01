@@ -5,4 +5,5 @@ package com.example.administrator.gittest;
  */
 
 public class A {
+    //master分支修改A
 }
